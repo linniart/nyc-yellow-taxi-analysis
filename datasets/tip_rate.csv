@@ -1,0 +1,50 @@
+pickup_borough,tip_category,no_of_trips,parent_sum,percentage
+,,68098319,68098319,1.0
+Bronx,,56784,68098319,0.0
+Bronx,10% to 15%,1841,56784,0.03
+Bronx,15% to 20%,8741,56784,0.15
+Bronx,20% to 25%,1522,56784,0.03
+Bronx,5% to 10%,1811,56784,0.03
+Bronx,Less than 5%,625,56784,0.01
+Bronx,More than 25%,662,56784,0.01
+Bronx,no tip,41582,56784,0.73
+Brooklyn,,1229489,68098319,0.02
+Brooklyn,10% to 15%,85789,1229489,0.07
+Brooklyn,15% to 20%,499809,1229489,0.41
+Brooklyn,20% to 25%,68772,1229489,0.06
+Brooklyn,5% to 10%,55545,1229489,0.05
+Brooklyn,Less than 5%,9974,1229489,0.01
+Brooklyn,More than 25%,12047,1229489,0.01
+Brooklyn,no tip,497553,1229489,0.4
+EWR,,4031,68098319,0.0
+EWR,10% to 15%,388,4031,0.1
+EWR,15% to 20%,1094,4031,0.27
+EWR,20% to 25%,56,4031,0.01
+EWR,5% to 10%,454,4031,0.11
+EWR,Less than 5%,136,4031,0.03
+EWR,More than 25%,231,4031,0.06
+EWR,no tip,1672,4031,0.41
+Manhattan,,62856051,68098319,0.92
+Manhattan,10% to 15%,6105444,62856051,0.1
+Manhattan,15% to 20%,26684874,62856051,0.42
+Manhattan,20% to 25%,3014950,62856051,0.05
+Manhattan,5% to 10%,3848423,62856051,0.06
+Manhattan,Less than 5%,370244,62856051,0.01
+Manhattan,More than 25%,405157,62856051,0.01
+Manhattan,no tip,22426959,62856051,0.36
+Queens,,3948818,68098319,0.06
+Queens,10% to 15%,371031,3948818,0.09
+Queens,15% to 20%,1659563,3948818,0.42
+Queens,20% to 25%,153066,3948818,0.04
+Queens,5% to 10%,189073,3948818,0.05
+Queens,Less than 5%,36021,3948818,0.01
+Queens,More than 25%,18143,3948818,0.0
+Queens,no tip,1521921,3948818,0.39
+Staten Island,,3146,68098319,0.0
+Staten Island,10% to 15%,280,3146,0.09
+Staten Island,15% to 20%,1177,3146,0.37
+Staten Island,20% to 25%,175,3146,0.06
+Staten Island,5% to 10%,164,3146,0.05
+Staten Island,Less than 5%,47,3146,0.01
+Staten Island,More than 25%,52,3146,0.02
+Staten Island,no tip,1251,3146,0.4
